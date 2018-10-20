@@ -1,7 +1,0 @@
-Enumerate
-Question one: Give the solution space,Build a simple mathematical model(First construct a collection of possible solution.)
-What is the possible situation? The number of variables in the model is as small as possible, and they are independent of each other.
-Question two: Reduce search space.
-Use knowledge to narrow the value model of each variable in the model to avoid unnecessary calculations.
-Question three: Use the appropriate search order.
-The traversal order of the search space is consistent with the conditional expression in the model.
